@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到新生化1v7专属网站
 
-You can use the [editor on GitHub](https://github.com/tzaikmew/tzaikmew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+本群专属主播[点此跳转直播间](https://live.bilibili.com/22556768)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
